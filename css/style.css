@@ -245,17 +245,8 @@ h2.big {
   margin-top: 20px;
   width: 60%;
 }
-.structure-equal {
-  position: relative;
-  margin: 0 1%;
-  margin-top: 20px;
-}
-.structure-equal h3 {
-  display: inline-block;
-  margin: 0 20px 0 0;
-
-}
 .selection {
   display: inline-block;
   border-bottom: 1px solid gray;
+  font-weight: 550;
 }
